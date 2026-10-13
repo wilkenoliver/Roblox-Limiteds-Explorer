@@ -3,7 +3,7 @@
 Aplicativo de desktop para Windows que consulta itens **limiteds** do Roblox: valor, RAP, cópias,
 histórico de preço, textura, favoritos com alertas, comparador e calculadora de lucro.
 
-![Screenshot do app](https://substantial-bronze-cd43nyoz.edgeone.dev/)
+![Screenshot do app](3 (1).png)
 
 > Projeto não oficial. Não tem ligação com a Roblox Corporation nem com a Rolimons.
 > "Roblox" é marca registrada da Roblox Corporation.
